@@ -21,13 +21,12 @@
 </p>
 
 <h4 align="center">
-  Hello! I'm <b>Ayrton</b>!
+  Hello! I'm <b>Rodrigo</b>!
 </h4>
 <p align="center">
-  📌 &nbsp; Living in <b>São Paulo</b>, <b>SP</b>, <b>Brazil</b> &nbsp;
+  📌 &nbsp; Living in <b>Piauí</b>, <b>PI</b>, <b>Brazil</b> &nbsp;
 </p>
 <p align="center">
-  💼  &nbsp; Tech Lead at <b>TeresaPerezTours</b> &nbsp;
 <p align="center">
-  📚 &nbsp; Graduating in <b>Computer Engineering</b> &nbsp;
+  📚 &nbsp; Graduating in <b>Computer Science</b> &nbsp;
 </p>

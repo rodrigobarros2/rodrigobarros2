@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
 
-  <a href="https://github.com/rodrigobarros2a" alt="GitHub" target="_blank">
+  <a href="https://github.com/rodrigobarros2" alt="GitHub" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=Github&logoColor=white" />
   </a>
 

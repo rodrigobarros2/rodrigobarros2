@@ -1,4 +1,4 @@
-<p align="center">| JavaScript | ReactJS </p>
+<p align="center">JavaScript | ReactJS </p>
 
 <p align="center">
 

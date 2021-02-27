@@ -1,4 +1,4 @@
-<p align="center">| JavaScript | TypeScript | ReactJS | React Native |</p>
+<p align="center">| JavaScript | ReactJS </p>
 
 <p align="center">
 

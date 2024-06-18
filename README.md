@@ -1,4 +1,4 @@
-<p align="center">JavaScript | React.Js | Node.Js | Nest.Js | Next.Js | PostgreSQL | Testes Automatizados | Tailwindcss | Prisma | TypeORM </p>
+<p align="center">JavaScript | React.js | Node.js | Nest.js | Next.js | PostgreSQL | Testes Automatizados | Tailwindcss | Prisma | TypeORM </p>
 
 <p align="center">
 

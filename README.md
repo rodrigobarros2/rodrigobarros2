@@ -1,4 +1,4 @@
-<p align="center">JavaScript | ReactJS </p>
+<p align="center">JavaScript | React.Js | Node.Js | Nest.Js | Next.Js </p>
 
 <p align="center">
 

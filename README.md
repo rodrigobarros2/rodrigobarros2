@@ -30,6 +30,7 @@ Hoje sou responsável técnico da **Lexfy (4Juris)**, uma plataforma com IA usad
 
 ## Projetos
 
+- **[appsec-aws-lab](https://github.com/rodrigobarros2/appsec-aws-lab):** laboratório público de AppSec e DevSecOps num SaaS serverless na AWS (Lambda, SQS, DynamoDB, KMS, Secrets Manager e WAF, em Terraform), com versão vulnerável e versão corrigida. A esteira (gitleaks, Semgrep, osv-scanner, Checkov, Trivy, Hadolint e OWASP ZAP) roda nas duas e prova que pega cada falha.
 - **[CardápioSimples](https://cardapiosimples.com):** SaaS de cardápio digital e delivery que eu construí e opero sozinho. Tem vários lojistas com isolamento por RLS, pagamentos via webhook, agentes de IA e impressão automática na cozinha.
 - **Lexfy (4Juris):** atendimento com IA para escritórios de advocacia, com RAG, MCP, cobrança por créditos com Stripe e assinatura eletrônica com cinco provedores.
 - **Autoinsp:** plataforma antifraude automotiva. Trabalhei nas integrações com bureaus de dados, nas consultas em background com fallback entre provedores, nos relatórios em PDF e no fluxo de aprovação.

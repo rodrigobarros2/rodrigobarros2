@@ -39,4 +39,4 @@ Mais detalhes no meu site: **[rodrigobarros.tech](https://rodrigobarros.tech)**.
 
 ## Tecnologias
 
-TypeScript · Node.js · NestJS · React · Next.js · React Native · PostgreSQL · MongoDB · Redis · Supabase · Prisma · BullMQ · Python · LLMs, RAG e MCP · WhatsApp Business API · Stripe · Docker · AWS · Terraform · GitHub Actions · Vercel · Jest, Vitest e Cypress · Sentry · Semgrep · OWASP
+TypeScript · Node.js · NestJS · React · Next.js · React Native · PostgreSQL · MongoDB · Redis · Supabase · Prisma · BullMQ e AWS SQS · Python · LLMs, RAG e MCP · WhatsApp Business API · Stripe · Docker · AWS (SQS, Lambda, ECS, S3) · Terraform · GitHub Actions · Vercel · Jest, Vitest e Cypress · Sentry · Semgrep · OWASP

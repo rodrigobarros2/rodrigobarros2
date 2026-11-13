@@ -2,7 +2,7 @@
 
 **Engenheiro de software, backend e IA.** Construo, automatizo e protejo software que roda em produção: backend e integrações, IA aplicada e segurança de aplicações.
 
-Hoje sou responsável técnico, e único engenheiro, da **Lexfy (4Juris)**, uma plataforma com IA usada por 112 escritórios de advocacia, em que agentes conduzem cerca de 39 mil conversas por mês no WhatsApp. Tenho mais de 5 anos de experiência em saúde, crédito, antifraude, jurídico e varejo.
+Hoje sou responsável técnico, e único engenheiro, da **Lexfy (4Juris)**, uma plataforma com IA usada por 112 escritórios de advocacia, em que agentes conduzem cerca de 39 mil conversas por mês no WhatsApp. Tenho mais de 6 anos de experiência em saúde, crédito, antifraude, jurídico e varejo.
 
 <p>
   <a href="https://rodrigobarros.tech"><img src="https://img.shields.io/badge/rodrigobarros.tech-1d6fd1?style=flat-square&logo=googlechrome&logoColor=white" alt="Site" /></a>
